@@ -8,7 +8,7 @@ sites:
   - name: chuuchuu API
     url: http://api.chuuchuu.com/protected
     headers:
-    - "Authorization: x-api-key $CHUUCHUU_API_KEY"
+    - "x-api-key: $CHUUCHUU_API_KEY"
     - "Content-Type: application/json"
 
 status-website:
