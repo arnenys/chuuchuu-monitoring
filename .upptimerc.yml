@@ -3,8 +3,13 @@ owner: arnenys # Your GitHub organization or username, where this repository liv
 repo: chuuchuu-monitoring # The name of this repository
 
 sites:
-  - name: chuuchuu
+  - name: chuuchuu website
     url: https://www.chuuchuu.com
+  - name: chuuchuu API
+    url: http://api.chuuchuu.com/protected
+    headers:
+    - "Authorization: x-api-key $CHUUCHUU_API_KEY"
+    - "Content-Type: application/json"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
