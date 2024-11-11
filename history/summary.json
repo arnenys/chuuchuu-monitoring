@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 90,
-    "timeDay": 90,
-    "timeWeek": 90,
-    "timeMonth": 90,
-    "timeYear": 90,
+    "time": 156,
+    "timeDay": 156,
+    "timeWeek": 156,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "http://api.chuuchuu.com/protected",
     "icon": "https://icons.duckduckgo.com/ip3/api.chuuchuu.com.ico",
     "slug": "chuuchuu-api",
-    "status": "down",
-    "uptime": "6.45%",
-    "uptimeDay": "6.45%",
-    "uptimeWeek": "6.45%",
-    "uptimeMonth": "6.45%",
-    "uptimeYear": "6.45%",
-    "time": 675,
-    "timeDay": 675,
-    "timeWeek": 675,
-    "timeMonth": 675,
-    "timeYear": 675,
+    "status": "up",
+    "uptime": "0.20%",
+    "uptimeDay": "0.20%",
+    "uptimeWeek": "0.20%",
+    "uptimeMonth": "0.20%",
+    "uptimeYear": "0.20%",
+    "time": 824,
+    "timeDay": 824,
+    "timeWeek": 824,
+    "timeMonth": 824,
+    "timeYear": 824,
     "dailyMinutesDown": {
-      "2024-11-11": 0
+      "2024-11-11": 29
     }
   }
 ]
