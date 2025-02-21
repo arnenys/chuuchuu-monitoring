@@ -1,7 +1,7 @@
 url: http://api.chuuchuu.com/protected
-status: down
-code: 502
-responseTime: 842
-lastUpdated: 2025-02-21T06:50:35.414Z
+status: up
+code: 200
+responseTime: 548
+lastUpdated: 2025-02-21T07:10:33.379Z
 startTime: 2024-11-11T18:16:13.389Z
 generator: Upptime <https://github.com/upptime/upptime>
