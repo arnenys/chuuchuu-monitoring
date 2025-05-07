@@ -4,19 +4,19 @@
     "url": "https://www.chuuchuu.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.chuuchuu.com.ico",
     "slug": "chuuchuu-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 795,
-    "timeWeek": 396,
-    "timeMonth": 346,
+    "timeDay": 504,
+    "timeWeek": 373,
+    "timeMonth": 342,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-05-07": 0
+      "2025-05-07": 12
     }
   },
   {
