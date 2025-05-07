@@ -4,7 +4,7 @@
     "url": "https://www.chuuchuu.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.chuuchuu.com.ico",
     "slug": "chuuchuu-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 396,
     "timeMonth": 346,
     "timeYear": 244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "chuuchuu API",
